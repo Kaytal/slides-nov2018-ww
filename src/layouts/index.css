@@ -1,8 +1,8 @@
 :root {
-  --bg: #fdfdfd;
+  --bg: lightblue;
   --meta: #888;
   --accent: #3178cd;
-  --text: black;
+  --text: #333;
   --base: 1.5rem;
 }
 
