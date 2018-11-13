@@ -28,3 +28,12 @@ with ReactJS and GraphQL
  - GraphQL
  - You can use any GraphQL data source
  - Lots of great starters.
+
+---
+
+## Links
+
+ - [GatsbyJS](https://www.gatsbyjs.org/docs/)
+ - [Deploy to AWS](https://www.gatsbyjs.org/docs/deploying-to-s3-cloudfront/)
+ - [AWS Static Sites](https://aws.amazon.com/getting-started/projects/host-static-website/)
+ - [Deploy to Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)
